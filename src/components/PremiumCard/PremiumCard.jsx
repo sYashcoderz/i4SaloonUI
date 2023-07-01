@@ -1,6 +1,6 @@
+import { useState } from "react"; 
 import { Card, Row, Col, Button } from 'antd';
 import styled from '@emotion/styled';
-import { useState } from "react"; 
 import ConfirmModel from '../confirmModal/Modal';
 
 const CustomCard = styled(Card)`
